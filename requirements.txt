@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
